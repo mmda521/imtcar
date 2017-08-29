@@ -1,0 +1,36 @@
+[2016-03-07 17:36:41] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1  
+[2016-03-07 17:39:25] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1  
+[2016-03-07 17:47:51] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1  
+[2016-03-07 17:47:52] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1  
+[2016-03-07 17:48:43] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = '' ) LIMIT 1  
+[2016-03-07 17:48:44] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = '' ) LIMIT 1  
+[2016-03-07 17:50:18] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = '' ) LIMIT 1000  
+[2016-03-07 17:50:19] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = '' ) LIMIT 1000  
+[2016-03-07 17:56:48] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1000  
+[2016-03-07 17:56:49] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1000  
+[2016-03-07 17:57:36] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1000  
+[2016-03-07 17:57:38] /v4/shop/index.php?act=store_goods_bhcs&op=index ( act=store_goods_bhcs&op=index ) 
+ERR: Db Error: Unknown column 'id' in 'where clause'
+SELECT * FROM `v4_ctax_shopemallyi` WHERE ( id = 'companycode' ) LIMIT 1000  

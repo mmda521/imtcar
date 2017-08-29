@@ -1,0 +1,154 @@
+.span1 {
+    width: 8.33%;
+}
+.span2 {
+    width: 16.67%;
+}
+.span3 {
+    width: 25%;
+}
+.span4 {
+    width: 33.33%;
+}
+.span5 {
+    width: 41.67%;
+}
+.span6 {
+    width: 50%;
+}
+.span7 {
+    width: 58.33%;
+}
+.span8 {
+    width: 66.67%;
+}
+.span9 {
+    width: 75%;
+}
+.span10 {
+    width: 83.33%;
+}
+.span11 {
+    width: 91.67%;
+}
+.span12 {
+    width: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+#footer-big {
+    background-color: #F7F7F7;
+    width: 100%;
+    height: 383px;
+    border-top:3px solid #E1E1E1;
+    margin: 0 auto;
+    padding: 0;
+    margin-top: -20px;
+}
+#footer1 {
+    background-color: #F7F7F7;
+    width: 1200px;
+    height: 383px;
+    line-height: 28px;
+    margin: 0 auto;
+    padding: 0;
+}
+#footer1 .footerleft,
+#footer1 .footerright,
+#footer1 .sleft,
+#footer1 .sright
+{
+    display: inline-block;
+    float: left;
+}
+#footer1 .footerleft ul {
+    font-size: 14px;
+}
+#footer1 h3 {
+    line-height: 35px;
+    font-size: 16px;
+    margin: 50px auto auto 40px;
+}
+#footer1 .footerleft ul {
+    padding: 0;
+    display: inline-block
+}
+#footer1 .footerleft .ww1,
+#footer1 .footerleft .ww2,
+#footer1 .footerleft .ww3,
+#footer1 .footerleft .ww4{
+    margin: auto 40px;
+}
+#footer1 .footerleft ul li {
+    list-style:none;
+    width: 110px;
+    float: left;
+}
+#footer1 .footerright .line {
+    width: 1px;
+    height: 243px;
+    float: left;
+    margin:70px 0;
+    background-color:#E1E1E1;
+}
+#footer1 .footerright img {
+    width: 112px;
+    height: 112px;
+    padding: 80px 94px 0 93px;
+}
+#footer1 .footerright p {
+    font-size: 12px;
+    line-height: 25px;
+    text-align: center;
+}
+#footer1 .footerright .bb{
+    line-height: 35px;
+    font-size: 16px;
+    text-align: center;
+    margin: 0px auto;
+}
+a:hover {
+    color: #4284d9;
+    text-decoration: none;
+    cursor: pointer;
+}
+*::before, *::after {
+    box-sizing: border-box;
+}
+
+
+.copyright p {
+    font-size: 12px;
+    line-height: 20px;
+    color: #ffffff;
+}
+.copys .pleft {
+    float: left;
+    margin: 12px 40px;
+}
+.copys .pright {
+    float: right;
+    margin: 12px 56px;
+}
+
+.copyright {
+    background: #323333;
+    height: 53px;
+    width: 100%;
+}
+.copys {
+    background: #323333;
+    width: 1200px;
+    margin: 0 auto;
+}
+.copyright a {
+    color: #ffffff;
+
+}
+.copyright a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+

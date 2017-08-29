@@ -1,0 +1,98 @@
+<?php defined('InShopNC') or exit('Access Invalid!'); return array (
+  0 => 
+  array (
+    'nav_id' => '8',
+    'nav_type' => '0',
+    'nav_title' => '招商加盟',
+    'nav_url' => 'http://zosc.com/index.php?act=article&amp;article_id=25',
+    'nav_location' => '2',
+    'nav_new_open' => '1',
+    'nav_sort' => '220',
+    'item_id' => '0',
+    'nav_is_close' => '0',
+  ),
+  1 => 
+  array (
+    'nav_id' => '7',
+    'nav_type' => '0',
+    'nav_title' => '联系我们',
+    'nav_url' => 'http://zosc.com/index.php?act=article&amp;article_id=23',
+    'nav_location' => '2',
+    'nav_new_open' => '0',
+    'nav_sort' => '240',
+    'item_id' => '0',
+    'nav_is_close' => '0',
+  ),
+  2 => 
+  array (
+    'nav_id' => '21',
+    'nav_type' => '0',
+    'nav_title' => '消费者告知书',
+    'nav_url' => 'http://www.zosc.com/shop/index.php?act=article&amp;op=show&amp;article_id=42',
+    'nav_location' => '1',
+    'nav_new_open' => '1',
+    'nav_sort' => '254',
+    'item_id' => '1',
+    'nav_is_close' => '0',
+  ),
+  3 => 
+  array (
+    'nav_id' => '6',
+    'nav_type' => '0',
+    'nav_title' => '关于我们',
+    'nav_url' => 'http://www.zosc.com/shop/index.php?act=article&amp;op=show&amp;article_id=46',
+    'nav_location' => '1',
+    'nav_new_open' => '0',
+    'nav_sort' => '255',
+    'item_id' => '0',
+    'nav_is_close' => '0',
+  ),
+  4 => 
+  array (
+    'nav_id' => '15',
+    'nav_type' => '0',
+    'nav_title' => '物流自取',
+    'nav_url' => 'http://zosc.com/delivery',
+    'nav_location' => '2',
+    'nav_new_open' => '0',
+    'nav_sort' => '255',
+    'item_id' => '0',
+    'nav_is_close' => '0',
+  ),
+  5 => 
+  array (
+    'nav_id' => '16',
+    'nav_type' => '0',
+    'nav_title' => '公司官网',
+    'nav_url' => 'http://www.zzguojilugang.com',
+    'nav_location' => '1',
+    'nav_new_open' => '1',
+    'nav_sort' => '255',
+    'item_id' => '0',
+    'nav_is_close' => '0',
+  ),
+  6 => 
+  array (
+    'nav_id' => '22',
+    'nav_type' => '0',
+    'nav_title' => '班列订舱',
+    'nav_url' => 'http://www.zih718.com',
+    'nav_location' => '2',
+    'nav_new_open' => '1',
+    'nav_sort' => '255',
+    'item_id' => '0',
+    'nav_is_close' => '0',
+  ),
+  7 => 
+  array (
+    'nav_id' => '23',
+    'nav_type' => '2',
+    'nav_title' => '新闻报道',
+    'nav_url' => 'http://',
+    'nav_location' => '1',
+    'nav_new_open' => '1',
+    'nav_sort' => '255',
+    'item_id' => '12',
+    'nav_is_close' => '0',
+  ),
+);

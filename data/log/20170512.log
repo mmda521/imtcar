@@ -1,0 +1,6 @@
+[2017-05-12 17:18:35] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave ( act=store_goods_add&op=car_configsave ) 
+ERR: Db Error: Unknown column 'gearbox_type' in 'field list'
+INSERT  INTO `718shop_gearbox` (goods_commonid,gearbox_referred,car_gears_num,gearbox_type) VALUES ('37','111','11','1')
+[2017-05-12 17:23:39] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave ( act=store_goods_add&op=car_configsave ) 
+ERR: Db Error: Unknown column 'gearbox_type' in 'field list'
+INSERT  INTO `718shop_gearbox` (goods_commonid,gearbox_referred,car_gears_num,gearbox_type) VALUES ('37','123','12','2')

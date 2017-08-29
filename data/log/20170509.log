@@ -1,0 +1,3 @@
+[2017-05-09 16:04:53] /imtcar/shop/index.php?act=goods&op=index&goods_id=334 ( act=goods&op=index ) 
+ERR: Db Error: Unknown column 'is_default' in 'where clause'
+SELECT * FROM `718shop_transport_extend` WHERE ( transport_id = '1' ) AND ( is_default = '1' ) LIMIT 1000  

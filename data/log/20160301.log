@@ -1,0 +1,9 @@
+[2016-03-01 10:18:03] /v4/shop/index.php?act=pointshop&op=index ( act=pointshop&op=index ) 
+ERR: Db Error: Unknown column 'voucher_t_gettype' in 'where clause'
+SELECT * FROM `v4_voucher_template` WHERE ( voucher_t_state = '1' ) AND ( voucher_t_gettype = '1' ) AND ( voucher_t_end_date > '1456798683' ) ORDER BY voucher_t_recommend desc,voucher_t_id desc LIMIT 1000  
+[2016-03-01 10:23:42] /v4/shop/index.php?act=pointshop&op=index ( act=pointshop&op=index ) 
+ERR: Db Error: Unknown column 'voucher_t_gettype' in 'where clause'
+SELECT * FROM `v4_voucher_template` WHERE ( voucher_t_state = '1' ) AND ( voucher_t_gettype = '1' ) AND ( voucher_t_end_date > '1456799022' ) ORDER BY voucher_t_recommend desc,voucher_t_id desc LIMIT 1000  
+[2016-03-01 15:50:13] /v4/shop/index.php?act=pointshop&op=index ( act=pointshop&op=index ) 
+ERR: Db Error: Unknown column 'voucher_t_gettype' in 'where clause'
+SELECT * FROM `v4_voucher_template` WHERE ( voucher_t_state = '1' ) AND ( voucher_t_gettype = '1' ) AND ( voucher_t_end_date > '1456818613' ) ORDER BY voucher_t_recommend desc,voucher_t_id desc LIMIT 1000  

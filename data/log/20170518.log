@@ -1,0 +1,9 @@
+[2017-05-18 09:42:55] /imtcar/shop/index.php?act=goods&op=index&goods_id=44 ( act=goods&op=index ) 
+ERR: Db Error: Table 'imtcar.718shop_goods_gift' doesn't exist
+SELECT * FROM `718shop_goods_gift` WHERE ( goods_id = '44' ) LIMIT 1000  
+[2017-05-18 10:59:46] /imtcar/shop/index.php?act=goods&op=index&goods_id=44 ( act=goods&op=index ) 
+ERR: Db Error: Table 'imtcar.718shop_goods_gift' doesn't exist
+SELECT * FROM `718shop_goods_gift` WHERE ( goods_id = '44' ) LIMIT 1000  
+[2017-05-18 11:08:27] /imtcar/shop/index.php?act=goods&op=index&goods_id=44 ( act=goods&op=index ) 
+ERR: Db Error: Table 'imtcar.718shop_goods_gift' doesn't exist
+SELECT * FROM `718shop_goods_gift` WHERE ( goods_id = '44' ) LIMIT 1000  

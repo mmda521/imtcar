@@ -1,0 +1,15 @@
+[2017-05-25 11:12:55] /imtcar/cms/ ( act=index&op=index ) 
+ERR: Db Error: Unknown column 'pcture_class_id' in 'where clause'
+SELECT * FROM `718shop_cms_picture` WHERE ( pcture_class_id = '' ) AND ( picture_state = '3' ) AND ( picture_commend_flag = '1' ) ORDER BY picture_publish_time desc LIMIT 6  
+[2017-05-25 11:13:03] /imtcar/cms/ ( act=index&op=index ) 
+ERR: Db Error: Unknown column 'pcture_class_id' in 'where clause'
+SELECT * FROM `718shop_cms_picture` WHERE ( pcture_class_id = '' ) AND ( picture_state = '3' ) AND ( picture_commend_flag = '1' ) ORDER BY picture_publish_time desc LIMIT 6  
+[2017-05-25 11:13:12] /imtcar/cms/ ( act=index&op=index ) 
+ERR: Db Error: Unknown column 'pcture_class_id' in 'where clause'
+SELECT * FROM `718shop_cms_picture` WHERE ( pcture_class_id = '' ) AND ( picture_state = '3' ) AND ( picture_commend_flag = '1' ) ORDER BY picture_publish_time desc LIMIT 6  
+[2017-05-25 11:13:24] /imtcar/cms/ ( act=index&op=index ) 
+ERR: Db Error: Unknown column 'pcture_class_id' in 'where clause'
+SELECT * FROM `718shop_cms_picture` WHERE ( pcture_class_id = '' ) AND ( picture_state = '3' ) AND ( picture_commend_flag = '1' ) ORDER BY picture_publish_time desc LIMIT 6  
+[2017-05-25 11:18:17] /imtcar/cms/ ( act=index&op=index ) 
+ERR: Db Error: Unknown column 'pcture_class_id' in 'where clause'
+SELECT * FROM `718shop_cms_picture` WHERE ( pcture_class_id = '' ) AND ( picture_state = '3' ) AND ( picture_commend_flag = '1' ) ORDER BY picture_publish_time desc LIMIT 6  

@@ -1,0 +1,279 @@
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shop_id' in 'where clause'
+SELECT companycode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'emallyikey' in 'field list'
+SELECT emallyikey FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'eccode' in 'field list'
+SELECT eccode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbecode' in 'field list'
+SELECT cbecode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'ecname' in 'field list'
+SELECT ecname FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbename' in 'field list'
+SELECT cbename FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipper' in 'field list'
+SELECT shipper FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipperaddress' in 'field list'
+SELECT shipperaddress FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippertelephone' in 'field list'
+SELECT shippertelephone FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountryciq' in 'field list'
+SELECT shippercountryciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountrycus' in 'field list'
+SELECT shippercountrycus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodeciq' in 'field list'
+SELECT agentcodeciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodecus' in 'field list'
+SELECT agentcodecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnameciq' in 'field list'
+SELECT agentnameciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:45] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnamecus' in 'field list'
+SELECT agentnamecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shop_id' in 'where clause'
+SELECT companycode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'emallyikey' in 'field list'
+SELECT emallyikey FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'eccode' in 'field list'
+SELECT eccode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbecode' in 'field list'
+SELECT cbecode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'ecname' in 'field list'
+SELECT ecname FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbename' in 'field list'
+SELECT cbename FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipper' in 'field list'
+SELECT shipper FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipperaddress' in 'field list'
+SELECT shipperaddress FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippertelephone' in 'field list'
+SELECT shippertelephone FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountryciq' in 'field list'
+SELECT shippercountryciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountrycus' in 'field list'
+SELECT shippercountrycus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodeciq' in 'field list'
+SELECT agentcodeciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodecus' in 'field list'
+SELECT agentcodecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnameciq' in 'field list'
+SELECT agentnameciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 14:59:46] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnamecus' in 'field list'
+SELECT agentnamecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shop_id' in 'where clause'
+SELECT companycode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'emallyikey' in 'field list'
+SELECT emallyikey FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'eccode' in 'field list'
+SELECT eccode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbecode' in 'field list'
+SELECT cbecode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'ecname' in 'field list'
+SELECT ecname FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbename' in 'field list'
+SELECT cbename FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipper' in 'field list'
+SELECT shipper FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipperaddress' in 'field list'
+SELECT shipperaddress FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippertelephone' in 'field list'
+SELECT shippertelephone FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountryciq' in 'field list'
+SELECT shippercountryciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountrycus' in 'field list'
+SELECT shippercountrycus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodeciq' in 'field list'
+SELECT agentcodeciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodecus' in 'field list'
+SELECT agentcodecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnameciq' in 'field list'
+SELECT agentnameciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:15] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnamecus' in 'field list'
+SELECT agentnamecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shop_id' in 'where clause'
+SELECT companycode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'emallyikey' in 'field list'
+SELECT emallyikey FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'eccode' in 'field list'
+SELECT eccode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbecode' in 'field list'
+SELECT cbecode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'ecname' in 'field list'
+SELECT ecname FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbename' in 'field list'
+SELECT cbename FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipper' in 'field list'
+SELECT shipper FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipperaddress' in 'field list'
+SELECT shipperaddress FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippertelephone' in 'field list'
+SELECT shippertelephone FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountryciq' in 'field list'
+SELECT shippercountryciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountrycus' in 'field list'
+SELECT shippercountrycus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodeciq' in 'field list'
+SELECT agentcodeciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodecus' in 'field list'
+SELECT agentcodecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnameciq' in 'field list'
+SELECT agentnameciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:17] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnamecus' in 'field list'
+SELECT agentnamecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shop_id' in 'where clause'
+SELECT companycode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'emallyikey' in 'field list'
+SELECT emallyikey FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'eccode' in 'field list'
+SELECT eccode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbecode' in 'field list'
+SELECT cbecode FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'ecname' in 'field list'
+SELECT ecname FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'cbename' in 'field list'
+SELECT cbename FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipper' in 'field list'
+SELECT shipper FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shipperaddress' in 'field list'
+SELECT shipperaddress FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippertelephone' in 'field list'
+SELECT shippertelephone FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountryciq' in 'field list'
+SELECT shippercountryciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'shippercountrycus' in 'field list'
+SELECT shippercountrycus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodeciq' in 'field list'
+SELECT agentcodeciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentcodecus' in 'field list'
+SELECT agentcodecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnameciq' in 'field list'
+SELECT agentnameciq FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 15:01:18] /v4/admin/index.php?act=bhcs&op=base ( act=bhcs&op=base ) 
+ERR: Db Error: Unknown column 'agentnamecus' in 'field list'
+SELECT agentnamecus FROM `v4_ctax_emallyibase` WHERE ( shop_id = '5' ) LIMIT 1  
+[2016-03-08 17:20:23] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:20:31] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W029611',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:22:39] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:22:50] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296123',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:35:06] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:35:12] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296123',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:35:18] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296123',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:41:13] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:41:17] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296123',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:41:19] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:42:47] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:42:48] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:44:16] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:44:17] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:44:18] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:44:20] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:44:38] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='4100300490',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )
+[2016-03-08 17:44:49] /v4/admin/index.php?act=bhcs&op=edit_save_bhcs ( act=bhcs&op=edit_save_bhcs ) 
+ERR: Db Error: Unknown column 'emallyi_version' in 'field list'
+UPDATE `v4_ctax_shopemallyi` SET ecpcodeciq='410030049011',ecpcodecus='W0296',ecpnameciq='郑州国际陆港开发建设有限公司',ecpnamecus='郑州国际陆港开发建设有限公司',emallyi_version='1.0',companycode='W0296' WHERE ( emallyi_id = '1' )

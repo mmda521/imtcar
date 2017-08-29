@@ -1,0 +1,159 @@
+[2017-05-15 09:25:25] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave ( act=store_goods_add&op=car_configsave ) 
+ERR: Db Error: Column 'abs' cannot be null
+INSERT  INTO `718shop_control_config` (goods_commonid,abs,ebd,bas,asr,esp,hac,auto_hold,avs,ecas,vgrs,front_limit,cent_diff_lock,rear_limit) VALUES ('38',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)
+[2017-05-15 09:48:29] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('0','435','45','45','4','4','54','','45','45','45','45','45')
+[2017-05-15 09:51:23] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('0','435','345','','','','','','','','','','')
+[2017-05-15 09:54:31] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','34','34','34','34','34','34','34','34','34','34','34','34')
+[2017-05-15 09:59:34] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','dcds','dssdc','','','','','','','','','','')
+[2017-05-15 10:00:35] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','cx','z x','','','','','','','','','','')
+[2017-05-15 10:03:47] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','1','1','0','0','0','','0','','','','','')
+[2017-05-15 10:09:31] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','11','11','','','','','','','','','','')
+[2017-05-15 10:11:48] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','111','111','','','','','','','','','','')
+[2017-05-15 10:12:56] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','11','1','','','','','','','','','','')
+[2017-05-15 10:16:36] /imtcar/shop/index.php?act=store_goods_add&op=car_configsave1 ( act=store_goods_add&op=car_configsave1 ) 
+ERR: Db Error: Unknown column 'auto_hold' in 'field list'
+INSERT  INTO `718shop_light_config` (goods_commonid,dip_helight,high_beam,drl,dist_light,auto_helamp,corn_lamp,auto_hold,ste_helights,front_fog_lamp,helight_adjust,lean_device,atmos_lamp) VALUES ('42','4','5','4','5','54','45','','54','4545','45','45','45')
+[2017-05-15 15:13:19] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_basic` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 15:24:34] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_carbody` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 15:31:06] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 15:40:12] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:40:11] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:51:39] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:52:58] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:53:58] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:54:21] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:54:27] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:55:27] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:56:17] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=43 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '43' ) LIMIT 1  
+[2017-05-15 16:58:29] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 16:59:07] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:00:30] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:00:50] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:02:20] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:03:33] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:03:56] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:04:34] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:05:11] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:06:07] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:06:39] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:10:57] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:11:31] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:12:03] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:12:50] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:15:54] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:19:58] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:22:20] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:29:02] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:29:44] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:30:19] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:30:56] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 17:44:04] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 18:24:27] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=45 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '45' ) LIMIT 1  
+[2017-05-15 18:25:13] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 21:17:11] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 21:19:23] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 21:19:34] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 21:20:00] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  
+[2017-05-15 21:21:07] /imtcar/shop/index.php?act=store_goods_online&op=edit_goods&commonid=44 ( act=store_goods_online&op=edit_goods ) 
+ERR: Db Error: Unknown column 'goods_kuajingD_id' in 'field list'
+SELECT goods_kuajingD_id FROM `718shop_engine` WHERE ( goods_commonid = '44' ) LIMIT 1  

@@ -1,0 +1,27 @@
+[2017-05-08 18:40:35] /imtcar/shop/index.php?act=index&op=viewed_info ( act=index&op=viewed_info ) 
+ERR: Db Error: Table 'imtcar.imt_web_channel' doesn't exist
+SELECT * FROM `imt_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_web_channel' doesn't exist
+SELECT * FROM `imt_web_channel` WHERE ( channel_show = '1' ) ORDER BY convert(channel_name using gbk) asc,channel_id desc LIMIT 1000  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_groupbuy' doesn't exist
+SELECT * FROM `imt_groupbuy` WHERE ( state = '20' ) AND ( start_time < '1494240578' ) AND ( end_time > '1494240578' ) ORDER BY recommended desc LIMIT 4  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_link' doesn't exist
+SELECT * FROM `imt_link` as `link`   order by link_id
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_order_goods' doesn't exist
+SELECT * FROM `imt_order_goods` ORDER BY rec_id desc LIMIT 60  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_p_xianshi_goods' doesn't exist
+SELECT * FROM `imt_p_xianshi_goods` WHERE ( state = '1' ) AND ( start_time < '1494240578' ) AND ( end_time > '1494240578' ) ORDER BY xianshi_recommend desc LIMIT 4  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_web' doesn't exist
+SELECT * FROM `imt_web` WHERE ( web_show = '1' ) AND ( web_page LIKE 'index%' ) ORDER BY web_sort LIMIT 1000  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_adv_position' doesn't exist
+SELECT * FROM `imt_adv_position` WHERE ( ap_id = '1054' ) LIMIT 1  
+[2017-05-08 18:49:39] /imtcar/ ( act=index&op=index ) 
+ERR: Db Error: Table 'imtcar.imt_adv' doesn't exist
+SELECT * FROM `imt_adv` WHERE ( ap_id = '1054' ) AND ( adv_end_date > '1494240579' ) ORDER BY slide_sort, adv_id desc LIMIT 1000  
